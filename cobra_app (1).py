@@ -138,7 +138,6 @@ st.download_button("📥 Download Results as Excel", data=excel_data, file_name=
 # --- Footer ---
 st.markdown("---")
 st.markdown("Created with 💚 for the theme Celebrating Innovation, Commercialisation, and Publication. Powered by COBRA, Big Data & Streamlit.")
-'''
 
 # Saving the full code to 'cobra_app.py'
 file_path = "/mnt/data/cobra_app.py"
